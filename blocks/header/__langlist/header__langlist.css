@@ -1,0 +1,11 @@
+.header__langlist {
+    padding: 0;
+    margin-bottom: 6px;
+    display: flex;
+    align-content: flex-end;
+    list-style: none;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+}

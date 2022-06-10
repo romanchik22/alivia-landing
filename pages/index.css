@@ -1,1 +1,4 @@
 @import url(/vendor/normolize.css);
+@import url(/blocks/header/__logo/header__logo.css);
+@import url(/blocks/header/__langlist/header__langlist.css);
+@import url(/blocks/footer/footer.css);
